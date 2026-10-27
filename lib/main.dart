@@ -11,7 +11,7 @@ class GestionFinanciereApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Gestion Financière',
+      title: 'GesFi',
       theme: ThemeData(
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFFF0F2F5), // Gris métallique très clair / propre
